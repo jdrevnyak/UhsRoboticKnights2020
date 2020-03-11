@@ -1,0 +1,11 @@
+[
+  {
+    "name": "1537work (in project 1537work)",
+    "file": "/Users/jackdrevnyak/Desktop/1537work/build/libs/1537work.jar",
+    "extensions": [
+      "/Users/jackdrevnyak/Desktop/1537work/build/tmp/expandedArchives/halsim_gui-2020.2.2-osxx86-64.zip_1ad08ae2af1e48b55eb81983cc56ca10/osx/x86-64/shared/libhalsim_gui.dylib"
+    ],
+    "librarydir": "/Users/jackdrevnyak/Desktop/1537work/build/tmp/jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]
